@@ -1,4 +1,4 @@
-# whatastory-rag
+# RAG Product Demo Video
 
 Pipeline RAG lokal untuk menganalisis pola skrip, pacing, dan struktur video dari channel YouTube [@whatastory](https://www.youtube.com/@whatastory) (What a Story — studio explainer video SaaS/AI). Dibangun untuk riset pola produksi video demo hackathon, bukan untuk redistribusi konten channel tersebut.
 
