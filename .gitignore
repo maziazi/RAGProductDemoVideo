@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+
+# data hasil scraping — transcript channel orang lain, jangan di-push publik
+data/
+
+# vector store turunan — biner, bisa di-regenerate dari data/
+chroma_db/
+
+# log proses
+*.log
